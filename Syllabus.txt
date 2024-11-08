@@ -1,0 +1,26 @@
+Syllabus
+Text Extraction:
+
+- Introduction: This section provides an overview of text extraction, including the process of identifying relevant keywords and extracting them from text.
+
+- Rapid Automatic Keyword Extraction: This section discusses the techniques used for extracting candidate keywords, keyword scores, adjoining keywords, and extracted keywords. It also includes a benchmark evaluation of precision, recall, efficiency, and stop list generation.
+
+- Evaluation on New Articles: This section focuses on evaluating the performance of the extracted keywords on new articles, providing insights into their effectiveness in different contexts.
+
+- Clustering: This section explores multilingual document clustering techniques, including Multilingual LSA, Tucker1 method, PARAFAC2 method, LSA with term alignments, LMSA, and LMSA with term alignments.
+
+- Classification: This section delves into content-based spam email classification using machine-learning algorithms. It also discusses the use of nonnegative matrix factorization for email classification problems and constrained clustering with k-means type algorithms.
+
+- Anomaly and Trend Detection: This section presents various text visualization techniques, such as tag clouds, authorship and change tracking, data exploration, and the search for novel patterns, sentiment tracking, visual analytics, and Future Lens for scenario discovery and adaptive threshold setting for novelty mining.
+
+- Text Streams: This section introduces text streams and discusses feature extraction and data reduction, event detection, trend detection, event and trend descriptions, embedding semantics in LDA topic models, and more.
+
+References:
+
+- Book 1: M. W. Berry and J. Kogan, Text Mining Applications and Theory, Wiley Publications, 2010
+
+- Book 2: C. C. Aggarwal and C. X. Zhai, Mining Text Data, Springer Science & Business Media, 2012
+
+- Book 3: G. Miner et al., Practical Text Mining and Statistical Analysis for Non-Structured Text Data Applications, Academic Press, 2012
+
+- Book 4: N. Srivastava and M. Sahami, Text Mining: Classification, Clustering, and Applications, Chapman and Hall/CRC, 2009
